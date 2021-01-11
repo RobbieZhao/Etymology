@@ -11,20 +11,40 @@ When logos is taken into English, it's usually of the form -logy. One of the key
    - George: originally a farmer, from geo + ergon, work
    - geometry: measurement of the earth, from geo + metron, measurement
  - biology: the study of life, from bios (Greek), life + logos.
+   - neurobiology:
+   - neurology:
+     - neurotic:
+     - neuralgia:
+     - neuritis
+   - microbiologist
+     - microphone
  - dermatology: the study of the skin, from derma (Greek): skin + logos
    - hypodermic: under the skin, from hypos (Greek), under + derma
    - dermatitis: inflamation of the skin, from derma + -itis, inflamation
+     - arthritis: inflamation of joints, arthron (Greek), joint + -itis
+     - gingivitis: inflamation of gum, from gingiva, gum + -itis
  - zoology: the study of animals, from zoion (Greek), animal + logos
  - theology: the study of religion. Originally means the study of god, from theo (Greek), god + logos
    - atheist: a person who doesn't believe in God, from a-, not + theos
  - psychology: the study of the mind, from psyche (Greek), spirit, soul, or mind + logos
- - pathology: the study of diseases, from pathos (Greek), suffering or disease + logos
+   - psychopath:
+   - sociopath:
+   - pathology: the study of diseases, from pathos (Greek), suffering or disease + logos
  - archaeology: the study of ancient things, from Arkhaios (Greek), ancient + logos
  - sociology: the study of societies, from socius (Latin), companion + logos
  - anthropology: the study of humans, from anthropos (Greek), mankind + logos
    - misanthrope: a person who hates other people, from misein (Greek), to hate + anthropos
+     - misagamist
+     - misogynist
+     - misnomer
+     - misunderstanding
    - philanthropist: a person who gives money and time to help other people, from philein (Greek), to love + anthropos
-   - philosophy: the study of ideas about knowledge, truth, the nature and meaning of life, etc., "love of wisdom", from philein + sophos (Greek), wisdom
+     - philosophy: the study of ideas about knowledge, truth, the nature and meaning of life, etc., "love of wisdom", from philein + sophos (Greek), wisdom
+     - pedophile
+     - pediatrician
+     - Philedelphia
+     - philanthropy
+     - bibliophile
  - astrology: the study of stars, from astron (Greek), star + logos. Astrology studies the influence of planets and stars on human events. The actual science of the stars is astronomy. 
    - astronomy: the scientific study of stars, from astron + nomos, arrangement, law, order
    - disaster: from dis-, against + astron
@@ -36,9 +56,18 @@ When logos is taken into English, it's usually of the form -logy. One of the key
  - ophthalmology: the study of the eyes, from ophthalmos (Greek), eye + logos
    - monocle: "one eye", from mono-, one + oculus (Latin), eye
    - binocular: "two eyes", from bi-, two + oculus
+   - inoculate
    - optometry: the measurement of eyes, from optikos (Greek), eye or vision + metron, measurement
    - optician: one who makes glasses
    - oculist: an ophthalmologist or optometrist, from oculus + -ist
+ - epidemiology:
+   - epidemic:
+   - pandemic:
+ - gerontology
+ - gynecology:
+   - misogynist:
+ - andrology:
+ - philology
 
 -logy could also mean word or speech:
 
@@ -72,3 +101,49 @@ Bonus is the Latin adjective for good, and bene is its adverb. On the opposite s
    - malicious: adj. of malice
  - malnutrition: from malus + nutrition
 
+## Tooth
+
+odontos is Greek for tooth:
+
+ - orthodontist
+   - orthopedics
+   - orthogonal
+ - periodontist
+ - exodontist
+ - pedodontist
+ - endodontist
+ - lingual
+   - lingua
+   - linguist
+   - semanticist
+
+## Phobias
+
+ - acrophobia
+ - agoraphobia
+ - cynophobia
+ - trypophobia
+ - claustrophobia
+ - thanatophobia
+
+## Numbers
+
+ - monocle
+ - binoculars
+ - monogamy
+ - bigamy
+ - polygamy
+ - monopoly
+ - monarchy
+   - oligarchy
+   - democracy
+ - duopoly
+ - bicycle
+ - triangle
+ - trivial
+ - polynomial
+ - tripod
+   - podiatrist
+   - podium
+ - triad
+ - 
