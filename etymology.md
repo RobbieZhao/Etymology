@@ -18,6 +18,7 @@ When logos is taken into English, it's usually of the form -logy. One of the key
      - neuritis
    - microbiologist
      - microphone
+     - megaphone
  - dermatology: the study of the skin, from derma (Greek): skin + logos
    - hypodermic: under the skin, from hypos (Greek), under + derma
    - dermatitis: inflamation of the skin, from derma + -itis, inflamation
@@ -26,10 +27,12 @@ When logos is taken into English, it's usually of the form -logy. One of the key
  - zoology: the study of animals, from zoion (Greek), animal + logos
  - theology: the study of religion. Originally means the study of god, from theo (Greek), god + logos
    - atheist: a person who doesn't believe in God, from a-, not + theos
+   - monotheist: 
  - psychology: the study of the mind, from psyche (Greek), spirit, soul, or mind + logos
    - psychopath:
-   - sociopath:
-   - pathology: the study of diseases, from pathos (Greek), suffering or disease + logos
+     - sociopath:
+     - osteopath:
+     - pathology: the study of diseases, from pathos (Greek), suffering or disease + logos
  - archaeology: the study of ancient things, from Arkhaios (Greek), ancient + logos
  - sociology: the study of societies, from socius (Latin), companion + logos
  - anthropology: the study of humans, from anthropos (Greek), mankind + logos
@@ -40,6 +43,7 @@ When logos is taken into English, it's usually of the form -logy. One of the key
      - misunderstanding
    - philanthropist: a person who gives money and time to help other people, from philein (Greek), to love + anthropos
      - philosophy: the study of ideas about knowledge, truth, the nature and meaning of life, etc., "love of wisdom", from philein + sophos (Greek), wisdom
+     - sophomore
      - pedophile
      - pediatrician
      - Philedelphia
@@ -58,6 +62,7 @@ When logos is taken into English, it's usually of the form -logy. One of the key
    - binocular: "two eyes", from bi-, two + oculus
    - inoculate
    - optometry: the measurement of eyes, from optikos (Greek), eye or vision + metron, measurement
+     - themonometer
    - optician: one who makes glasses
    - oculist: an ophthalmologist or optometrist, from oculus + -ist
  - epidemiology:
@@ -100,6 +105,7 @@ Bonus is the Latin adjective for good, and bene is its adverb. On the opposite s
  - malice: bad, evil intent, from malus
    - malicious: adj. of malice
  - malnutrition: from malus + nutrition
+ - malware
 
 ## Tooth
 
@@ -137,6 +143,7 @@ odontos is Greek for tooth:
  - monarchy
    - oligarchy
    - democracy
+   - meritocracy
  - duopoly
  - bicycle
  - triangle
@@ -146,4 +153,22 @@ odontos is Greek for tooth:
    - podiatrist
    - podium
  - triad
- - 
+ - polyamorous
+
+## Kill
+
+ - patricide
+   - patrimony
+   - patriarch
+ - genocide
+ - homicide
+ - pesticide
+ - fratricide
+ - matricide
+   - matriarch
+   - maternal
+   - alma mater
+   - matrimony
+ - uxoricide
+ - suicide
+ - sororicide
